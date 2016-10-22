@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationTrigger", "NotificationTrigger\NotificationTrigger.csproj", "{743B10EC-452B-449F-9F68-968E425C2FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743B10EC-452B-449F-9F68-968E425C2FC9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{743B10EC-452B-449F-9F68-968E425C2FC9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{743B10EC-452B-449F-9F68-968E425C2FC9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{743B10EC-452B-449F-9F68-968E425C2FC9}.Release|iPhone.Build.0 = Release|iPhone
+		{743B10EC-452B-449F-9F68-968E425C2FC9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{743B10EC-452B-449F-9F68-968E425C2FC9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{743B10EC-452B-449F-9F68-968E425C2FC9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{743B10EC-452B-449F-9F68-968E425C2FC9}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
